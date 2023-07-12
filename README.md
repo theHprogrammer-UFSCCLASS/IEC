@@ -20,8 +20,8 @@ Repository for the activities of the Introduction to Computer Engineering discip
 3. To clone the repository using HTTPS, under "Clone with HTTPS", click 📋. To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH, then click 📋. To clone a repository using GitHub CLI, click Use GitHub CLI, then click 📋.
 4. Open Git Bash.
 5. Type git clone (clone git) and paste the URL you copied earlier.
-```c
-$ git clone https://github.com/theHprogrammerUFSC/Introduction_to_Computer_Engineering
+```bash
+$ git clone git@github.com:theHprogrammer-UFSCCLASS/IEC.git
 ```
 6. Press Enter to create your local clone.
 
